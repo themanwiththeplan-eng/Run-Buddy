@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://themanwiththeplan-eng.github.io/run-buddy/
+https://themanwiththeplan-eng.github.io/Run-Buddy/
 
 ## Contribution
 Made with ❤️ by Dakota
